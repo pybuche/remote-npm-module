@@ -1,0 +1,15 @@
+{
+  "name": "remote-npm-module",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pybuche/remote-npm-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pybuche/remote-npm-module/issues"
+  },
+  "homepage": "https://github.com/pybuche/remote-npm-module#readme",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
+}
